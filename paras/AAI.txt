@@ -1,0 +1,8 @@
+The hard problem of the Text Classification usually has 
+various aspects and potential solutions. Keyword extraction 
+and maximal frequent item set can be used as attributes for 
+mining Association rules or can be applied as a basis for 
+measuring the similarity of new documents with existing 
+association rules. The issue of keyword extraction from text 
+collection is an emerging research field. It also promotes 
+maximal frequent item set generation.
